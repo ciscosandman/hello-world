@@ -1,2 +1,4 @@
 # hello-world
 practice run through of github's new tutorial
+
+I'm one of thousands of thirty-something college drop outs that is just now trying to code seriously because life "without" is no life at all.  I have an associates in computer networking but no certs and no foot in the door anywhere. I've dabbled in pascal, C, C++, HTML, javascript, JAVA, Python, and C#.  The fact that I never sat down and got really good with just one language has held me back.  I have a handful of games made and college coding classes under my belt but washed out when I ran out of financial aid.  Now I'm on github, khan academy, coursera, and various other sites trying desperately to gain marketable skills while working part time as a night security guard.  If I can't figure out a way to finish school and/or find good work then I don't know if I'll ever get out from under.  I just know that I can't quit.
